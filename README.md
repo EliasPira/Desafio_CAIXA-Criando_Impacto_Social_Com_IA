@@ -34,7 +34,7 @@ Midjourney：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | Imagem | "magine a student giving a speech at their graduation, relating their success to Artificial Intelligence. Do not mix the human with the AI, but present both images in the same frame. The audience should be visible but in silhouette.Artificial Intelligence should be represented in another way, not as a human. Artificial Intelligence should have its hand at the student's shoulder level while the student addresses the audience" |
-| Texto | Partindo do texto abaixo  [Subimissão_Desafio_Caixa.docx](https://github.com/EliasPira/Desafio_CAIXA-Criando_Impacto_Social_Com_IA/raw/refs/heads/main/entrada/Submiss%C3%A3o_Desafio_Caixa.docx) , traga insights poderosos para elaboração de um artigo para a comunidade de alunos e professores da plataforma DIO, com sugestões de prompts e tópicos para abordar com o tema Criando Impacto Social com IA |
+| Texto | Partindo do texto abaixo  [Submissão_Desafio_Caixa.docx](https://github.com/EliasPira/Desafio_CAIXA-Criando_Impacto_Social_Com_IA/raw/refs/heads/main/entrada/Submiss%C3%A3o_Desafio_Caixa.docx) , traga insights poderosos para elaboração de um artigo para a comunidade de alunos e professores da plataforma DIO, com sugestões de prompts e tópicos para abordar com o tema Criando Impacto Social com IA |
 
 
 ## ✨ Features
@@ -51,7 +51,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize o prompt acima na ferramenta sugerida para gerar a imagem e utilize um editor de texto como Word, para criar o pdf.
+Utilize os prompst acima nas ferramentas sugeridas para gerar a imagem e o texto. Faça o refinamento do prompt conforme necessário. Com o texto gerado utilize um editor de texto como Word, para criar o pdf.
 
 ## 👨‍💻 Expert
 
