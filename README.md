@@ -33,7 +33,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| Imagem | "Imagine a student giving a speech at their graduation, relating their success to Artificial Intelligence. Do not mix the human with the AI, but present both images in the same frame. The audience should be visible but in silhouette.Artificial Intelligence should be represented in another way, not as a human. Artificial Intelligence should have its hand at the student's shoulder level while the student addresses the audience. --v 6.1" |
+| Imagem | "magine a student giving a speech at their graduation, relating their success to Artificial Intelligence. Do not mix the human with the AI, but present both images in the same frame. The audience should be visible but in silhouette.Artificial Intelligence should be represented in another way, not as a human. Artificial Intelligence should have its hand at the student's shoulder level while the student addresses the audience" |
 
 ## ✨ Features
 
