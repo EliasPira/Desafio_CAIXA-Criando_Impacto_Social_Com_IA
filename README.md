@@ -7,7 +7,7 @@
 
 <p align="center">
 <img width="400"
-    src="Entradas/Plan_Laptop.png"
+    src="entrada/Estudante_IA.png"
 >
 </p>
 
