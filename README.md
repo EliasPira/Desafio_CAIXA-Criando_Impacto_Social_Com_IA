@@ -18,7 +18,7 @@ Desafio CAIXA - Criando Impacto Social Com IA - Artigo criado durante BootCamp C
 
 Projeto com o objetivo de gerar um artigo utilizando Inteligencia Artificial, tratando de soluções passívei de serem geradas ou potencializadas por Inteligencia Artificial que causem impacto social.
 
-<a href="https://1drv.ms/b/c/c7138c90b86afe76/EVqC7M4r_P9DjmitWTjg4c8B_l2wAAOUbd5CmltQTx9X4A?e=NtJdQd"> 📕Clique aqui para vizualizar</a>
+<a href="https://1drv.ms/b/c/c7138c90b86afe76/EVqC7M4r_P9DjmitWTjg4c8B_l2wAAOUbd5CmltQTx9X4A?e=gxW2su"> 📕Clique aqui para vizualizar</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
