@@ -48,7 +48,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar a imagem e utilize uma ferramenta de planilhas eletronicas como Excel, para criar a planilha.
+Utilize o prompt acima na ferramenta sugerida para gerar a imagem e utilize um editor de texto como Word, para criar o pdf.
 
 ## 👨‍💻 Expert
 
