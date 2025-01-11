@@ -34,7 +34,7 @@ Midjourney：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | Imagem | "magine a student giving a speech at their graduation, relating their success to Artificial Intelligence. Do not mix the human with the AI, but present both images in the same frame. The audience should be visible but in silhouette.Artificial Intelligence should be represented in another way, not as a human. Artificial Intelligence should have its hand at the student's shoulder level while the student addresses the audience" |
-| Texto | Partindo do texto abaixo ( , traga insights poderosos para elaboração de um artigo para a comunidade de alunos e professores da plataforma DIO, com sugestões de prompts e tópicos para abordar com o tema Criando Impacto Social com IA |
+| Texto | Partindo do texto abaixo (<a href="entrada/Submissão_Desafio_Caixa.docx) , traga insights poderosos para elaboração de um artigo para a comunidade de alunos e professores da plataforma DIO, com sugestões de prompts e tópicos para abordar com o tema Criando Impacto Social com IA |
 
 
 ## ✨ Features
@@ -47,6 +47,7 @@ Midjourney：
 
 - Imagens utilizadas em `entradas`
 - PDF gerado durante as aulas em `Saída`
+- Texto do Desafio em `entradas`
 
 ## 🛠️ Instruções de execução
 
