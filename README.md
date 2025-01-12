@@ -45,7 +45,6 @@ ChatGPT：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | Texto | Partindo do texto abaixo  [Submissão_Desafio_Caixa.docx](https://github.com/EliasPira/Desafio_CAIXA-Criando_Impacto_Social_Com_IA/raw/refs/heads/main/entrada/Submiss%C3%A3o_Desafio_Caixa.docx) , traga insights poderosos para elaboração de um artigo para a comunidade de alunos e professores da plataforma DIO, com sugestões de prompts e tópicos para abordar com o tema Criando Impacto Social com IA |
-
 | Texto | analise suas duas últimas respostas e crie um artigo com as seguintes regras:
 
 REGRAS:
