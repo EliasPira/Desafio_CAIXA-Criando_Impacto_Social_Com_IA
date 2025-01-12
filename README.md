@@ -16,7 +16,7 @@ Desafio CAIXA - Criando Impacto Social Com IA - Artigo criado durante BootCamp C
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui ALUNO na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um artigo utilizando Inteligencia Artificial, tratando de soluções passívei de serem geradas ou potencializadas por Inteligencia Artificial que causem impacto social.
+Projeto com o objetivo de criar um artigo utilizando Inteligencia Artificial para gerar ou potencializar, soluções que causem impacto social.
 
 <a href="Saída/CriandoImpactoSocialComIA.pdf"> 📕Clique aqui para vizualizar</a>
 
@@ -51,7 +51,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompst acima nas ferramentas sugeridas para gerar a imagem e o texto. Faça o refinamento do prompt conforme necessário. Com o texto gerado utilize um editor de texto como Word, para criar o pdf.
+Utilize os prompst acima nas ferramentas sugeridas para gerar a imagem e o texto. Faça o refinamento do prompt conforme necessário. Com o conteúdo gerado utilize um editor de texto como Word, para criar o pdf.
 
 ## 👨‍💻 Expert
 
