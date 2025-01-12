@@ -80,11 +80,9 @@ Utilize os prompst acima nas ferramentas sugeridas para gerar a imagem e o texto
     <a 
         href="https://github.com/EliasPira">
         GitHub
-    </a>
- />
-    <p>&nbsp&nbsp&nbspElias Acosta<br>
-    &nbsp&nbsp&nbsp
+<p>
+    &nbsp;|&nbsp;
     <a 
-        href="(https://www.linkedin.com/in/elias-acosta-a0ba8619a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1fKUMa%2FVR0CTNyLXL%2FOiVA%3D%3D)">
-        Linkedin
+        href="linkedin.com/in/elias-acosta-a0ba8619a">
+        LinkedIn
     </a>
