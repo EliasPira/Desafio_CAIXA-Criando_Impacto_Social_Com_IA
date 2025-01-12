@@ -33,12 +33,13 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| Imagem | "magine a student giving a speech at their graduation, relating their success to Artificial Intelligence. Do not mix the human with the AI, but present both images in the same frame. The audience should be visible but in silhouette.Artificial Intelligence should be represented in another way, not as a human. Artificial Intelligence should have its hand at the student's shoulder level while the student addresses the audience" |
+| Imagem | "A human dressed in character for their graduation ceremony and a friendly 3D AI assistant robot holding a glowing holographic display, surrounded by pastel glowing icons and data streams floating in the air." |
 
 Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
+| Prompt1 | Como deve ser estruturado um artigo sobre Criando Impacto Social com Inteligencia Artificial, com um tamanho entre 1.000 a 2.000 palavras. O estilo deve ser claro e conciso, e a formatação deve ser organizada com títulos e subtítulos, parágrafos curtos e uso de listas quando necessário. Inclua exemplos práticos, histórias e casos de uso para ilustrar os conceitos. A estrutura do artigo deve incluir introdução, seções explicativas e conclusão. |
 
 ChatGPT：
 
