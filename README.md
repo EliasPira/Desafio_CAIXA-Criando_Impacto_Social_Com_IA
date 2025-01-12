@@ -45,11 +45,7 @@ ChatGPT：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | Texto | Partindo do texto abaixo  [Submissão_Desafio_Caixa.docx](https://github.com/EliasPira/Desafio_CAIXA-Criando_Impacto_Social_Com_IA/raw/refs/heads/main/entrada/Submiss%C3%A3o_Desafio_Caixa.docx) , traga insights poderosos para elaboração de um artigo para a comunidade de alunos e professores da plataforma DIO, com sugestões de prompts e tópicos para abordar com o tema Criando Impacto Social com IA |
-| Texto | analise suas duas últimas respostas e crie um artigo com as seguintes regras:
-REGRAS: >Tamanho Ideal: O tamanho ideal pode variar, mas um artigo entre **1.000 a 2.000 palavras** geralmente é o suficiente para cobrir o assunto com profundidade, sem se tornar cansativo. >Estilo: Adote um estilo **claro e conciso**. Use uma linguagem acessível, evitando jargões excessivos, a menos que estejam bem explicados. Aqui estão algumas sugestões:
-- **Técnico e Informativo**: Mantenha o foco no conteúdo técnico, com explicações detalhadas e exemplos práticos.
-- **Engajador e Dinâmico**: Inclua histórias ou casos de uso para ilustrar os conceitos e manter o leitor interessado.
-- **Tutorial e Prático**: Passo a passo, mostrando como implementar ou usar uma tecnologia específica.
+| Texto | analise suas duas últimas respostas e crie um artigo com as seguintes regras: REGRAS: >Tamanho Ideal: O tamanho ideal pode variar, mas um artigo entre **1.000 a 2.000 palavras** geralmente é o suficiente para cobrir o assunto com profundidade, sem se tornar cansativo. >Estilo: Adote um estilo **claro e conciso**. Use uma linguagem acessível, evitando jargões excessivos, a menos que estejam bem explicados. Aqui estão algumas sugestões: - **Técnico e Informativo**: Mantenha o foco no conteúdo técnico, com explicações detalhadas e exemplos práticos. - **Engajador e Dinâmico**: Inclua histórias ou casos de uso para ilustrar os conceitos e manter o leitor interessado. - **Tutorial e Prático**: Passo a passo, mostrando como implementar ou usar uma tecnologia específica.
 > Formatação
 A formatação correta pode fazer uma grande diferença na legibilidade do artigo:
 1. **Títulos e Subtítulos**: Use H1, H2 e H3 para organizar o conteúdo e facilitar a leitura.
